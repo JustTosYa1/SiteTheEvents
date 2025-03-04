@@ -1,7 +1,9 @@
-# Сайт выбора отелей, мероприятий и программ | The Events
+# Сайт выбора отелей и мероприятий | The Events
 ## Установка
 ```
 pip install flask
+pip install flask_wtf
+pip install flask_sqlalchemy
 ```
 ## Запуск
 ```
