@@ -4,6 +4,8 @@
 pip install flask
 pip install flask_wtf
 pip install flask_sqlalchemy
+pip install wtforms
+pip install werkzeug
 ```
 ## Запуск
 ```
